@@ -1,6 +1,6 @@
 name: La Fama Seattle
 favicon: null
-layout_spectrum: 0.9388691985514015
+layout_spectrum: 0.75885
 typography_spectrum: 0.6766946811694652
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.8260772847570479
-  lightness: 0.1392549080774188
-  saturation: 0.9355806834064424
-  rhythmicContrast: 0.4986898556817323
+  brandStrength: 0.9375
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
