@@ -1,9 +1,7 @@
-favicon: null
 name: La Fama Seattle
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.2096774
+typography_spectrum: 0.6766946811694652
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5
-  brandStrength: 0.9375
-  rhythmicContrast: 0.5
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+  brandStrength: 0.5625
   lightness: 0.2526882
-typography_spectrum: 0.6766946811694652
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.2096774
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  saturation: 0
+  rhythmicContrast: 0.5
+purpose: []
